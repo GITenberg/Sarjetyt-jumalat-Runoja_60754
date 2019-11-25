@@ -1,0 +1,32 @@
+_repo: Sarjetyt-jumalat-Runoja_60754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Onerva, L.
+    aliases:
+    - Lehtinen, Hilja Onerva
+    - Lehtinen, Onerva
+    - Madetoja, Hilja Onerva
+    - Streng, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L._Onerva
+    - https://fi.wikipedia.org/wiki/L._Onerva
+description: ''
+gutenberg_issued: '2019-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60754'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Särjetyt jumalat
+
+  Runoja'
+url: http://www.gutenberg.org/ebooks/60754
